@@ -85,7 +85,7 @@ function displayFlashMessageFail(message) {
 
 async function download() {
   window.location.href =
-    "https://res.cloudinary.com/dl0ohmbko/raw/upload/fl_attachment/fczaecckeisi0pp7ysn1.rar";
+    "https://res.cloudinary.com/dl0ohmbko/raw/upload/fl_attachment/Task_bqro4t.rar";
 }
 
 async function learnMore() {
