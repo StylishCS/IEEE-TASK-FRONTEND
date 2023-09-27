@@ -84,7 +84,10 @@ function displayFlashMessageFail(message) {
 }
 
 async function download() {
-  console.log("test");
   window.location.href =
     "https://res.cloudinary.com/dl0ohmbko/raw/upload/fl_attachment/fczaecckeisi0pp7ysn1.rar";
+}
+
+async function learnMore() {
+  window.location.href = "https://github.com/StylishCS/IEEE-TASK-API/tree/main";
 }
